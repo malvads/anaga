@@ -1,0 +1,24 @@
+# Build outputs
+build/
+*.o
+*.bin
+*.img
+*.elf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/

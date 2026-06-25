@@ -1,0 +1,23 @@
+Anaga
+-----
+
+Another random crap I created on a weekend because I was bored and thought
+"how hard can it be to write a kernel?" — turns out, pretty hard.
+
+I think I made this like a year ago, but pushing now because YOLO.
+
+A 32-bit x86 kernel written in C and assembly.
+
+Building
+--------
+
+Requires nasm, i686-elf-gcc, i686-elf-ld, qemu-system-i386,
+and probably more stuff than friends I have.
+
+make
+make run
+
+License
+-------
+
+MIT. See LICENSE for details.
